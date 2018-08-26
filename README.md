@@ -1,4 +1,4 @@
-# Hangman-AI
+# Hangman-Solver
 
 This is a Hangman solver that has a 24% win rate over 100 games when only afforded 3 wrong guesses.
 
